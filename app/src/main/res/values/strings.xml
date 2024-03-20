@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RandomPassword</string>
     <string name="app_heading">Random Passwords Generator</string>
+
+
+    <string name="banner_ads">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
